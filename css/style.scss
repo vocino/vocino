@@ -14,13 +14,13 @@
 
 // Colors
 
-$background-color: {{ site.data.settings.color_settings.background_color }};
-$background-alt-color: {{ site.data.settings.color_settings.background_alt_color }};
-$border-color: {{ site.data.settings.color_settings.border_color }};
+$background-color: darken({{ site.data.settings.color_settings.accent_color }}, 48%);
+$background-alt-color: darken({{ site.data.settings.color_settings.accent_color }}, 46%);
+$border-color: darken({{ site.data.settings.color_settings.accent_color }}, 44%);
 
-$text-dark-color: {{ site.data.settings.color_settings.text_dark_color }};
-$text-medium-color: {{ site.data.settings.color_settings.text_medium_color }};
-$text-light-color: {{ site.data.settings.color_settings.text_light_color }};
+$text-dark-color: #eee;
+$text-medium-color: #ccc;
+$text-light-color: #999;
 
 $accent-color: {{ site.data.settings.color_settings.accent_color }};
 
