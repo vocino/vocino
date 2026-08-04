@@ -7,7 +7,7 @@
 
 ### now
 
-i use opencode. runs on arch.
+using opencode on arch linux.
 
 - [opencode-autonomy](https://github.com/vocino/opencode-autonomy)
 - [opencode-ambient](https://github.com/vocino/opencode-ambient)
