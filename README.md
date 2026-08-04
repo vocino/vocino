@@ -5,3 +5,8 @@
 [![Threads](https://img.shields.io/badge/Threads-Vocino-000000?style=flat-square&labelColor=45475a&color=cba6f7&logo=threads&logoColor=ffffff)](https://www.threads.net/@vocino)
 [![GitHub followers](https://img.shields.io/github/followers/vocino?style=flat-square&labelColor=45475a&color=89b4fa&label=followers)](https://github.com/vocino)
 
+### now
+
+- [opencode-autonomy](https://github.com/vocino/opencode-autonomy)
+- [opencode-ambient](https://github.com/vocino/opencode-ambient)
+
